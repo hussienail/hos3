@@ -1,5 +1,5 @@
-$(`<a id="تطوير-وتكويد-فهد-الشمري" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a><img id="لاتسرق-التصميم-ياتيس"src="https://k.top4top.io/p_1679zlk791.gif
-"style="width:100%"><a id="تطوير-مطنوخ-ششمر"target="_blank"type="a"rel="nofollow"title=""href="http://www.dookmobile.com/"class="label-primary">بـرمـجة دوكـ مـوبـايـل </a></div></div><center>`).insertBefore(".nav-tabs"),$(".nav-tabs").addClass("fl").css("width","100%"),
+$(`<a id="تطوير-وتكويد-فهد-الشمري" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a><img id="لاتسرق-التصميم-ياتيس"src="https://g.top4top.io/p_1682yhzii1.gif
+"style="width:100%"><a id="تطوير-مطنوخ-ششمر"target="_blank"type="a"rel="nofollow"title=""href="http://www.dookmobile.com/"class="label-primary">برمجه حسين النعيمي </a></div></div><center>`).insertBefore(".nav-tabs"),$(".nav-tabs").addClass("fl").css("width","100%"),
 $(`<center><div id="fahd99">
 <a id="فهد"rel="dofollow" title="القوانين" href=""style="border-radius: 0 4px 0 0; border-right: 2px solid#f7d322;"class="fl mini  fa fa-bullhorn btn btn-primary" target="_blank"></a>
 <a id="فهد"rel="dofollow" title="الاشتراكات" href=""style="border-right: 1px solid#fff;"class="fl mini  fa fa-star-half-o btn btn-primary" target="_blank"></a>
@@ -12,7 +12,7 @@ $(`<center><div id="fahd99">
 </div></div><center>
 <center><div><marquee direction="right" id="oa43" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="3"> 
 
-&nbsp;أهلا وسهلا بكم في شات <font color="#595757" class="فهد2">  ♥ || أوتــــأإر || ♥ </font> ● · ‫أفضل سوبر لهذا الأسبوع · ● <font class="فهد2" color="#727A54">&nbsp; قريـــبا &nbsp;</font> ● · ‫أفضل زائر لهذا الأسبوع · ● <font class="فهد2" color="#ff9900">&nbsp;قريـــبا &nbsp;</font> ● · ‫أفضل زائرة لهذا الأسبوع · ● <font class="فهد2" color="#ff00ff">&nbsp; قريـــبا &nbsp;</font> ● · مبدع الحائط لهذا الأسبوع · ● <font class="فهد2" color="#5CAD9A">&nbsp; قريـــبا   &nbsp;</font> ● · مبدعة الحائط لهذا الأسبوع · ● <font class="فهد2" color="#800000">&nbsp; قريـــبا &nbsp;</font> ● · ‫أفضل تواجد لهذا الأسبوع · ● <font class="فهد2" color="#417570">&nbsp; قريـــبا &nbsp;</font> ● · مع تمنياتنا للجميع بـ أطيب الاوقات&nbsp;
+&nbsp;أهلا وسهلا بكم في شات <font color="#595757" class="فهد2">  اوتـار بغداد </font> ● · ‫أفضل سوبر لهذا الأسبوع · ● <font class="فهد2" color="#727A54">&nbsp; قريـــبا &nbsp;</font> ● · ‫أفضل زائر لهذا الأسبوع · ● <font class="فهد2" color="#ff9900">&nbsp;قريـــبا &nbsp;</font> ● · ‫أفضل زائرة لهذا الأسبوع · ● <font class="فهد2" color="#ff00ff">&nbsp; قريـــبا &nbsp;</font> ● · مبدع الحائط لهذا الأسبوع · ● <font class="فهد2" color="#5CAD9A">&nbsp; قريـــبا   &nbsp;</font> ● · مبدعة الحائط لهذا الأسبوع · ● <font class="فهد2" color="#800000">&nbsp; قريـــبا &nbsp;</font> ● · ‫أفضل تواجد لهذا الأسبوع · ● <font class="فهد2" color="#417570">&nbsp; قريـــبا &nbsp;</font> ● · مع تمنياتنا للجميع بـ أطيب الاوقات&nbsp;
 
 </marquee></div><center>`
 ).insertBefore('div#tlogins .lonline.light.break');
